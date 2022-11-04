@@ -1,4 +1,4 @@
-hello atzzh! hello atzzh! 0.2
+hello atzzh! hello atzzh! github
 hello atzzh! hello atzzh! hot-fix
 hello atzzh! hello atzzh! master2 test
 hello atzzh! hello atzzh! hot-fix2 test
